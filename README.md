@@ -1,27 +1,27 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanjarkhan Nasibli</h1>
-<h3 align="center">Front-end Developer based in Baku, Azerbaijan.</h3>
+<h3 align="center">Front-end Developer | Tech enthusiast based in Baku, Azerbaijan🚀</h3>
 
 
 ## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working on **My Portfolio Project**
 
-- 🌱 I’m currently learning **Front-End Web Development (JavaScript)**
+- 🌱 I’m currently learning **Front-end Web Development (JavaScript)**
 
-- 👯 I’m looking to collaborate on **Full-Stack Web Development**
+- 👯 I’m looking to collaborate on **Full-stack Web Development**
 
 - 👨‍💻 My portfolio is available at **[My Portfolio Project (In development...)](#)**
 
-- 📫 How to reach me: [My Email Adress](mailto:sanrey2001@gmail.com) & [Twitter](https://twitter.com/)
+- 📫 How to reach me: [My Email Adress](mailto:sanrey2001@gmail.com) & [Twitter](https://twitter.com/_sanjarkhan_)
 
 
 ## 🌍 Find me around the WEB:
 
-- [Instagram](https://www.instagram.com/_sanjarkhan/)
+- [Instagram](https://www.instagram.com/_sanjarkhan_)
 - [LinkedIn](https://www.linkedin.com/)
-- [Twitter](https://twitter.com/)
+- [Twitter](https://twitter.com/_sanjarkhan_)
 - [Figma](https://www.figma.com/)
 
 ## 🚀 Languages and Tools:
