@@ -12,7 +12,7 @@ industry in general, and big challenging tasks on my to do list.
 My goal is to learn new stuff, expand current knowledge and make successful career in
 IT industry.
 
-- 👨‍💻 My Portfolio is available at **[sanjarkhan.dev]((https://sanjarkhan.dev/)**
+- 👨‍💻 My Portfolio is available at **https://sanjarkhan.dev/**
 
 - 📫 How to reach me: [via Email adress](mailto:sanrey2001@gmail.com) & [Twitter](https://twitter.com/_sanjarkhan_)
 
